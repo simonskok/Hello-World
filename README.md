@@ -1,2 +1,2 @@
 # Hello-World
-Malo igranja
+Da se zacnemo malo igrat z ETF in opcijami
