@@ -1,3 +1,4 @@
 # Hello-World
-Da se zacnemo malo igrat z ETF in opcijami
+Da se zacnemo malo igrat z ETF in opcijami,
 It's a nice day!
+Mesmerize the public ;)
